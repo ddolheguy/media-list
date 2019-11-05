@@ -1,0 +1,14 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "prettier.proseWrap": "always",
+  "javascript.format.enable": false,
+  "prettier.printWidth": 100,
+  "prettier.jsxBracketSameLine": true,
+  "tslint.jsEnable": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true
+}
