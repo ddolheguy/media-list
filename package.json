@@ -50,7 +50,7 @@
     "@types/styled-components": "4.1.20",
     "faker": "4.1.0",
     "json-server": "0.15.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "ts-jest": "^24.1.0"
   }
 }
